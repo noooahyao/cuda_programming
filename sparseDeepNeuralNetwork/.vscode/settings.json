@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.cu": "cpp",
+        "*.cuh": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "sstream": "cpp"
+    }
+}
